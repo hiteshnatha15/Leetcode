@@ -13,7 +13,7 @@ public:
                 continue;
             }
             if (nums[low] <= nums[mid]) {
-                if (nums[low] <= target && target <= nums[high])
+                if (nums[low] <= target && target <= nums[mid])
                     high = mid - 1;
                 else
                     low = mid + 1;
