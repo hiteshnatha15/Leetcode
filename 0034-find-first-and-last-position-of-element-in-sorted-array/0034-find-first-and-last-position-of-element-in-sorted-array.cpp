@@ -27,6 +27,6 @@ public:
             else
                 high = mid - 1;
         }
-        return {left,right};
+        return {left, right};
     }
 };
