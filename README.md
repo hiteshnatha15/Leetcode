@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0009-palindrome-number) |
+| [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
