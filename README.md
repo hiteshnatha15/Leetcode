@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
