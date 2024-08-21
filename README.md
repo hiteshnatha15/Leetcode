@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
