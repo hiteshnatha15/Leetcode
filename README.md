@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/hiteshnatha15/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/hiteshnatha15/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hiteshnatha15/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/hiteshnatha15/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hiteshnatha15/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting Sort
 |  |
@@ -167,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiteshnatha15/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
