@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hiteshnatha15/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/hiteshnatha15/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hiteshnatha15/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0056-merge-intervals) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/hiteshnatha15/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hiteshnatha15/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hiteshnatha15/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hiteshnatha15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/hiteshnatha15/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hiteshnatha15/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hiteshnatha15/Leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
