@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 ## Two Pointers
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/hiteshnatha15/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hiteshnatha15/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/hiteshnatha15/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hiteshnatha15/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Counting Sort
