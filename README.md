@@ -101,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshnatha15/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/hiteshnatha15/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hiteshnatha15/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshnatha15/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/hiteshnatha15/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0189-rotate-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hiteshnatha15/Leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
