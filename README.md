@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/hiteshnatha15/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hiteshnatha15/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/hiteshnatha15/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/hiteshnatha15/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/hiteshnatha15/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
