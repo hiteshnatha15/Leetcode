@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/hiteshnatha15/Leetcode/tree/master/0735-asteroid-collision) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/hiteshnatha15/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/hiteshnatha15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/hiteshnatha15/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
