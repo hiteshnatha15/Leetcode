@@ -5,7 +5,7 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             int maxi=nums[i];
             int mini=nums[i];
-            for (int j = i; j < nums.size(); j++) {
+            for (int j = i+1; j < nums.size(); j++) {
                 maxi=max(maxi,nums[j]);
                 mini=min(mini,nums[j]);
                 sum+=(maxi-mini);
