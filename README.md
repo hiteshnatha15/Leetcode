@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hiteshnatha15/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/hiteshnatha15/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hiteshnatha15/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/hiteshnatha15/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/hiteshnatha15/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hiteshnatha15/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hiteshnatha15/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/hiteshnatha15/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/hiteshnatha15/Leetcode/tree/master/0383-ransom-note) |
 ## Design
