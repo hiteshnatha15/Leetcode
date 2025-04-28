@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/hiteshnatha15/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/hiteshnatha15/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/hiteshnatha15/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/hiteshnatha15/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2227-sum-of-subarray-ranges](https://github.com/hiteshnatha15/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
