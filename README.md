@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/hiteshnatha15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0812-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hiteshnatha15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/hiteshnatha15/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/hiteshnatha15/Leetcode/tree/master/0383-ransom-note) |
 | [0930-binary-subarrays-with-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hiteshnatha15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hiteshnatha15/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/hiteshnatha15/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hiteshnatha15/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hiteshnatha15/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Union Find
 |  |
