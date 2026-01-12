@@ -19,8 +19,6 @@ public:
         for (int i = idx; i < candidates.size(); i++) {
             if (i > idx && candidates[i - 1] == candidates[i])
                 continue;
-            if (candidates[i] > target)
-                break;
             subset.push_back(candidates[i]);
             helper(candidates, target, ans, subset, sum + candidates[i],
                    i + 1);
