@@ -6,7 +6,7 @@ public:
             ans.push_back(curr);
             return;
         }
-        if (idx == candidates.size() || sum > target)
+        if (idx >= candidates.size() || sum > target)
             return;
         curr.push_back(candidates[idx]);
         helper(ans, curr, idx, sum + candidates[idx], candidates, target);
