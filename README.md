@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/hiteshnatha15/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/hiteshnatha15/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/hiteshnatha15/Leetcode/tree/master/0901-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hiteshnatha15/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/hiteshnatha15/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/hiteshnatha15/Leetcode/tree/master/0901-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/hiteshnatha15/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/hiteshnatha15/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/hiteshnatha15/Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/hiteshnatha15/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/hiteshnatha15/Leetcode/tree/master/0901-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/hiteshnatha15/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hiteshnatha15/Leetcode/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/hiteshnatha15/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
