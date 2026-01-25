@@ -1,21 +1,9 @@
 class Solution {
 public:
-    bool isSafe(vector<vector<char>>& board, int row, int col, int num) {
-        for (int i = 0; i < 9; i++) {
-            if (board[i][col] == '0' + num || board[row][i] == '0' + num)
-                return false;
-        }
-        int x = (row / 3) * 3;
-        int y = (col / 3) * 3;
-        for (int i = x; i < x + 3; i++) {
-            for (int j = y; j < y + 3; j++) {
-                if (board[i][j] == '0' + num)
-                    return false;
-            }
-        }
-        return true;
+    void solveSudoku(vector<vector<char>>& board) {
+        helper(board, 0, 0);
+        return;
     }
-
     bool helper(vector<vector<char>>& board, int row, int col) {
         if (row == 9)
             return true;
@@ -34,8 +22,19 @@ public:
         }
         return false;
     }
-    void solveSudoku(vector<vector<char>>& board) {
-        helper(board, 0, 0);
-        return;
+    bool isSafe(vector<vector<char>>& board, int row, int col, int num) {
+        for (int i = 0; i < board.size(); i++) {
+            if (board[i][col] == '0' + num || board[row][i] == '0' + num)
+                return false;
+        }
+        int x = (row / 3) * 3;
+        int y = (col / 3) * 3;
+        for (int i = x; i < x + 3; i++) {
+            for (int j = y; j < y + 3; j++) {
+                if (board[i][j] == '0' + num)
+                    return false;
+            }
+        }
+        return true;
     }
 };
